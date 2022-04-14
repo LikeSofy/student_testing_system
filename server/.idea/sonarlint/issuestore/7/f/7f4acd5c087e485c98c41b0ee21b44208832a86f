@@ -1,0 +1,10 @@
+
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(๒ฦ๒þÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ลกา
+g
+java:S3457$"Q%n should be used in place of \n to produce the platform-specific line separator.(กำห—
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(กำห—
+g
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(ใ๘อ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(ใ๘อ

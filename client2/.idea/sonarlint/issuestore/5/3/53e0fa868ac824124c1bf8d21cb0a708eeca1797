@@ -1,0 +1,7 @@
+
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+i
+java:S2975D"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë
+^
+java:S1182D"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë

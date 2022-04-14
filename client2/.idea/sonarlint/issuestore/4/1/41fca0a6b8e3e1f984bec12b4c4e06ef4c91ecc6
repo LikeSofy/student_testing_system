@@ -1,0 +1,6 @@
+
+g
+java:S2095"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(”ΏΘ•ύÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ύεγ›ψÿÿÿÿ
+`
+java:S1854"ERemove this useless assignment to local variable "sendingDataBuffer".(εΫ»Ξÿÿÿÿÿ
